@@ -49,3 +49,4 @@ campus-notify/
         ├── AllNotifications.jsx
         └── PriorityInbox.jsx
 ```
+![Campus Notify Screenshot](./assets/image1.png)
