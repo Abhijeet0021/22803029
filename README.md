@@ -1,5 +1,8 @@
 # Campus Notify
 
+<p align="center">
+  <img src="./image1.png" alt="Campus Notify Screenshot" width="750"/>
+</p>
 React + Vite frontend for the Campus Notifications platform.
 
 ## Run in VS Code
